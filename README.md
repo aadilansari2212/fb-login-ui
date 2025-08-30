@@ -21,7 +21,7 @@ This project focuses on practicing **UI/UX design, responsive layout, and CSS st
 ## 📸 Demo
 Here’s a preview of the Facebook Login UI:
 
-![Screenshot](screenshot.png)
+![Screenshot] : (screenshot.png)
 
 ---
 
@@ -34,10 +34,11 @@ Open the project folder.
 Double-click on index.html to view in your browser.
 
 📌 Future Improvements
+
 --> Add mobile responsive view
 
 --> Add dark mode theme
 
 --> Add JavaScript validation for login inputs
 
-Edit
+
